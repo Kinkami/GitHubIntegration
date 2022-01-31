@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "vyq3MLUpbufGXIxtHXMQNf1bUR7jjfZdqiGpCrzzDizjHKiRxZVp7xeE8LuF5cjXyuJg8JErvjCidrqF1puxTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PLUS1283\\source\\repos\\GitHubIntegration\\Infrastructure\\Infrastructure.ApiDocumentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PLUS1283\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\PLUS1283\\.nuget\\packages\\microsoft.netcore.app\\2.2.8\\microsoft.netcore.app.2.2.8.nupkg.sha512",
+    "C:\\Users\\PLUS1283\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.8\\microsoft.netcore.dotnetapphost.2.2.8.nupkg.sha512",
+    "C:\\Users\\PLUS1283\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.8\\microsoft.netcore.dotnethostpolicy.2.2.8.nupkg.sha512",
+    "C:\\Users\\PLUS1283\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.8\\microsoft.netcore.dotnethostresolver.2.2.8.nupkg.sha512",
+    "C:\\Users\\PLUS1283\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.4\\microsoft.netcore.platforms.2.2.4.nupkg.sha512",
+    "C:\\Users\\PLUS1283\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\PLUS1283\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\PLUS1283\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\PLUS1283\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\PLUS1283\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\PLUS1283\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\PLUS1283\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
